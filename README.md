@@ -27,8 +27,8 @@ print the count
 ```
 """
 To write a python program for getting the word count from a text.
-Developed by: MIDHUN S 
-Reference no: 23003250
+Developed by: Santhosh Kumar R 
+Reference no: 23013562
 """
 with open("myfile.txt","r") as f:
     b=f.read()
